@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tFFPWiTrLOk=",
+  "success": true,
+  "projectFilePath": "D:\\.NET\\API_PROVEEDORES_SOL\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antoni\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

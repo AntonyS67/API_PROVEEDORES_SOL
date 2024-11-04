@@ -1,0 +1,11 @@
+D:\.NET\API_PROVEEDORES_SOL\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\.NET\API_PROVEEDORES_SOL\Domain\bin\Debug\net8.0\Domain.dll
+D:\.NET\API_PROVEEDORES_SOL\Domain\bin\Debug\net8.0\Domain.pdb
+D:\.NET\API_PROVEEDORES_SOL\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\API_PROVEEDORES_SOL\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\.NET\API_PROVEEDORES_SOL\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\.NET\API_PROVEEDORES_SOL\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\.NET\API_PROVEEDORES_SOL\Domain\obj\Debug\net8.0\Domain.dll
+D:\.NET\API_PROVEEDORES_SOL\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\.NET\API_PROVEEDORES_SOL\Domain\obj\Debug\net8.0\Domain.pdb
+D:\.NET\API_PROVEEDORES_SOL\Domain\obj\Debug\net8.0\ref\Domain.dll
