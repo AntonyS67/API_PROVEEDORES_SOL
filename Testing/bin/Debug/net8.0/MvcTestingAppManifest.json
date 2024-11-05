@@ -1,0 +1,6 @@
+{
+  "API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\.NET\\API_PROVEEDORES_SOL\\API",
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\.NET\\API_PROVEEDORES_SOL\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\.NET\\API_PROVEEDORES_SOL\\Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\.NET\\API_PROVEEDORES_SOL\\Infrastructure"
+}
